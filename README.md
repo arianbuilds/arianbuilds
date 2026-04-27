@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello+I'm+Arian;I'm+Python+Developer+%2B+Learning+AI;Welcome+To+My+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arian;Python+Developer+%7C+Learning+AI;Welcome+to+my+GitHub+Profile" />
 </p>
+
 
 
 
