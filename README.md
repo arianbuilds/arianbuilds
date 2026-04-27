@@ -31,6 +31,8 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="50"/>
+
 </p>
 
 ---
