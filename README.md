@@ -3,10 +3,6 @@
 </p>
 
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=arianbuilds&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
 ---
 
 # ⚡ Tech Stack
@@ -19,10 +15,20 @@
 
 ---
 
+### AI / ML
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://img.shields.io/badge/YOLO-ComputerVision-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mediapipe-ML-orange?style=for-the-badge"/>
+</p>
+
+---
+
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 </p>
 
 ---
@@ -37,7 +43,7 @@
 
 ### Design
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
@@ -73,10 +79,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/arianbuilds/arianbuilds/output/github-contribution-grid-snake.svg" />
 </p>
-
-
-
-
 
 ---
 
