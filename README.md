@@ -39,7 +39,6 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,kali" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="50"/>
 </p>
 
 ---
@@ -48,6 +47,7 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="50"/>
 </p>
 
 ---
