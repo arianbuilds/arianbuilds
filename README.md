@@ -14,7 +14,7 @@
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,c,java,lua,bash" />
+<img src="https://skillicons.dev/icons?i=python,js,lua,tailwind,vue" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,idea,tailwind,vue" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
