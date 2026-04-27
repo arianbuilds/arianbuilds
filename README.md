@@ -19,6 +19,8 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/YOLO-ComputerVision-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mediapipe-ML-orange?style=for-the-badge"/>
 </p>
@@ -37,6 +39,7 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,kali" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="50"/>
 </p>
 
 ---
