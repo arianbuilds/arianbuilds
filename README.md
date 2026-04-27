@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arian</h1>
-<h3 align="center">Python Developer | Building Tools | Learning AI</h3>
 
 <p align="center">
-Interested in building useful tools, automation and exploring Artificial Intelligence.
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=600&lines=Python+Developer;Building+Useful+Tools;Learning+AI+and+Machine+Learning;Computer+Vision+Explorer" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=arianbuilds&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -16,22 +19,20 @@ Interested in building useful tools, automation and exploring Artificial Intelli
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages & Tools
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=python,vue,tailwind,git,github,linux,vscode" />
-
 </p>
 
 ### AI / Computer Vision
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/OpenCV-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=black"/>
-<img src="https://img.shields.io/badge/YOLO-ComputerVision-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-ComputerVision-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-ObjectDetection-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mediapipe-ML-orange?style=for-the-badge"/>
 
 </p>
@@ -39,19 +40,17 @@ Interested in building useful tools, automation and exploring Artificial Intelli
 ### Design
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=figma" />
-
 </p>
 
-### IT & Networking
+### IT
 
+- IT Support  
 - Network Troubleshooting  
-- IT Support
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -63,7 +62,17 @@ Interested in building useful tools, automation and exploring Artificial Intelli
 
 ---
 
-## 🎯 Current Focus
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arianbuilds&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</p>
+
+---
+
+# 🎯 Current Focus
 
 - Learning **Machine Learning**
 - Building **Python tools**
@@ -71,6 +80,14 @@ Interested in building useful tools, automation and exploring Artificial Intelli
 
 ---
 
-## 📫 Contact
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/arianbuilds/arianbuilds/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📫 Contact
 
 Feel free to connect with me through **GitHub**.
